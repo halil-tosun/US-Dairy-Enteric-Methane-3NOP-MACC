@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "Reproducibility Package: A Nutrition-Based Marginal Abatement Cost Curve for Enteric Methane Mitigation in U.S. Dairy Production"
+message: "If you use this reproducibility package, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Tosun"
+    given-names: "Halil"
+    orcid: "https://orcid.org/0000-0001-5117-0390"
+    affiliation: "ADA University, School of Agricultural and Food Sciences, Department of Animal Science, Baku, Azerbaijan"
+    email: "halilibrahimtosun@gmail.com"
+  - family-names: "Kebreab"
+    given-names: "Ermias"
+    orcid: "https://orcid.org/0000-0002-0833-1352"
+    affiliation: "University of California, Davis, Department of Animal Science, Davis, CA 95616, USA"
+    email: "ekebreab@ucdavis.edu"
+  - family-names: "Cabrera"
+    given-names: "Victor E."
+    orcid: "https://orcid.org/0000-0003-1739-7457"
+    affiliation: "University of Wisconsin-Madison, Department of Animal and Dairy Sciences, Madison, WI, USA"
+    email: "vcabrera@wisc.edu"
+email: "halilibrahimtosun@gmail.com"
+repository-code: "[DOI will be added once assigned upon archival release]"
+keywords:
+  - marginal abatement cost curve
+  - enteric methane
+  - 3-nitrooxypropanol
+  - nutrition economics
+  - dairy cattle
+  - Monte Carlo simulation
+  - greenhouse gas mitigation
+  - reproducibility
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-09-05"

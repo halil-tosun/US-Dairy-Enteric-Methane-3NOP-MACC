@@ -1,0 +1,10 @@
+name: dairy-macc-repro
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy=2.4.4
+  - scipy=1.17.1
+  - pandas=3.0.2
+  - matplotlib=3.10.8
+  - pip

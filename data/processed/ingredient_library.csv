@@ -1,0 +1,10 @@
+ingredient,dm_pct,ndf_pct_dm,adf_pct_dm,cp_pct_dm,fat_pct_dm,nel_mcal_kg_dm,price_usd_per_kg_dm,role
+Alfalfa haylage,45,40,32,20,2.5,1.30,0.4777,forage
+Corn silage,35,45,26,8,3.0,1.55,0.1638,forage
+Grass hay,88,58,35,11,2.5,1.20,0.1816,forage
+Corn grain ground,88,9,3,9,4.0,1.90,0.1942,concentrate
+Soybean meal 48pct CP,90,8,6,48,1.5,1.98,0.3736,concentrate
+DDGS,90,35,15,30,10.0,1.90,0.1837,concentrate
+Soybean hulls,90,67,47,12,2.0,1.68,0.1715,concentrate
+Whole cottonseed,90,45,35,23,19.0,1.75,0.4100,fat_source_C
+Tallow (animal fat),99,0,0,0,99.5,2.45,0.9800,fat_source_C

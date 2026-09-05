@@ -1,0 +1,7 @@
+comparison_axis,this_study,usda_icf_2023,dutreuil_2014
+Data vintage / basis,"2024 meta-analysis, 35 studies (rumen-available fat)","Eugene et al. (2008), single meta-analysis","IFSM whole-farm simulation, 3 Wisconsin farms (2014)"
+CH4 reduction assumption,3.77% per pct-DM fat (primary); 19.5% (upper bound),"9.0% (fixed, for ~2 pct-DM fat increment)","Not applicable (feeding/manure strategies, not fat supplementation)"
+Production-effect assumption,"Milk fat percentage -7.8%, milk fat yield -6.0% (revenue LOSS via butterfat component value)","Feed efficiency +6.4% (revenue GAIN, no yield penalty)",Milk production held constant in primary scenario
+Net $/ton CO2e (dairy fat/lipid lever),"$171/ton (median, mid carbon price)","$19/ton (implied, unweighted 12-region mean)",Not reported in this format (% GHG change + $ net return by scenario)
+3-NOP (Lever B) coverage,Included -- Kebreab et al. (2022) interaction-adjusted,"EXPLICITLY EXCLUDED -- ""due to lack of market readiness and FDA approval"" (2023)",Not applicable -- predates 3-NOP commercial availability
+Lever interaction modeled,Yes -- Lever A x B quantitatively (Kebreab equation),No -- practice-by-practice; explicitly noted as own limitation,No

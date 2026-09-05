@@ -1,0 +1,5 @@
+lever,adoption_rate_point_estimate,adoption_rate_range_low,adoption_rate_range_high,national_abatement_MMT_median,national_abatement_MMT_p5,national_abatement_MMT_p95
+A - Dietary NDF reduction,0.6,0.5,0.7,0.053754003360464236,0.04762129475724645,0.06003138247284328
+B - 3-NOP (interaction-corrected),0.25,0.15,0.35,2.658890036805666,1.9062014349191212,3.3999049003781576
+C - Rumen-available fat,0.4,0.3,0.5,2.9188274262497114,1.4307761914386012,5.6966408106825766
+D - Replacement rate reduction,0.3,0.2,0.4,0.3747513083817725,0.27237828040694423,0.501045311643452

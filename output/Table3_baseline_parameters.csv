@@ -1,0 +1,13 @@
+parameter,value,source
+Body weight (BW),650 kg,Representative lactating Holstein cow
+Milk yield (MILK),38.0 kg/d,Representative lactating Holstein cow
+Milk fat (FAT),3.8%,Representative lactating Holstein cow
+Milk true protein (PROT_MILK),3.1%,Representative lactating Holstein cow
+Milk price,$46.96/100 kg,"US all-milk price, May 2026 (USDA ERS, 2026)"
+Premix cost,$0.55/cow/d,"Fixed, consistent with companion optimization study"
+Methane GWP100,27.9 kg CO2e/kg CH4,IPCC AR6 (2021)
+BAU dietary NDF (empirical mean),34.1% DM,"NASEM (2021) published U.S. mean, 34.1 +/- 4.6% DM"
+Forage NDF floor,19% DM,NRC (2001) / NASEM (2021)
+Total dietary NDF floor,25% DM,NRC (2001)
+NFC ceiling,40% DM,NRC (2001) / Ohio State Extension
+Rumen-available fat ceiling (Lever C),5.5% DM,Honan et al. (2021); biohydrogenation/MFD risk boundary
