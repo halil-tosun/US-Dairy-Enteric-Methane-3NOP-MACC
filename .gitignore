@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Do NOT ignore output/, figures/, or data/processed/ -- these are committed
+# intentionally so the repository is usable without first running the pipeline.
