@@ -1,0 +1,38 @@
+{
+  "title": "Reproducibility Package: A Nutrition-Based Marginal Abatement Cost Curve for Enteric Methane Mitigation in U.S. Dairy Production",
+  "description": "<p>Complete reproducibility package for a study constructing a marginal abatement cost curve (MACC) for enteric methane mitigation in U.S. dairy production, using a mechanistically informed, cow-level diet-optimization framework rather than literature-derived engineering assumptions. Includes:</p><ul><li>Python source code reproducing the full pipeline: dietary NDF reduction (Lever A, constrained nonlinear optimization), 3-nitrooxypropanol supplementation (Lever B, with an explicitly modeled Lever A x B interaction), rumen-available fat supplementation (Lever C), and replacement-rate reduction (Lever D);</li><li>10,000-iteration Monte Carlo uncertainty propagation, including adoption-rate uncertainty in the national-scale scaling exercise;</li><li>All nine result tables and five figures reported in the accompanying manuscript;</li><li>Full documentation (codebook, data description, reproducibility checklist, and a step-by-step replication guide).</li></ul><p>The study finds that the two most cost-effective levers (dietary NDF reduction and replacement-rate reduction) are cost-saving even without carbon market participation, while a feed additive (3-NOP) and rumen-available fat supplementation are cost-positive; critically, the two most cost-effective levers account for only a small share of the total illustrative national abatement potential identified, demonstrating that cost-effectiveness ranking and abatement-potential ranking are distinct properties of a mitigation portfolio.</p><p>This package is organized around the study itself rather than any single journal submission, so that it remains valid regardless of the eventual publication venue or manuscript title.</p>",
+  "creators": [
+    {
+      "name": "Tosun, Halil",
+      "affiliation": "ADA University, School of Agricultural and Food Sciences, Department of Animal Science, Baku, Azerbaijan",
+      "orcid": "0000-0001-5117-0390"
+    },
+    {
+      "name": "Kebreab, Ermias",
+      "affiliation": "University of California, Davis, Department of Animal Science, Davis, CA 95616, USA",
+      "orcid": "0000-0002-0833-1352"
+    },
+    {
+      "name": "Cabrera, Victor E.",
+      "affiliation": "University of Wisconsin-Madison, Department of Animal and Dairy Sciences, Madison, WI, USA",
+      "orcid": "0000-0003-1739-7457"
+    }
+  ],
+  "keywords": [
+    "marginal abatement cost curve",
+    "enteric methane",
+    "3-nitrooxypropanol",
+    "nutrition economics",
+    "dairy cattle",
+    "Monte Carlo simulation",
+    "greenhouse gas mitigation",
+    "reproducibility",
+    "open science"
+  ],
+  "license": "mit",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng",
+  "notes": "Underlying carbon-price, adoption-rate, and lever-effect coefficient data originate from publicly available third-party sources documented in full in docs/DATA_DESCRIPTION.md. Code and derived/processed data in this repository are released under the MIT License.",
+  "version": "1.0.0"
+}
